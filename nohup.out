@@ -1,0 +1,1 @@
+`docker daemon` is not supported on Linux. Please run `dockerd` directly
